@@ -1,0 +1,92 @@
+[
+    {
+        "location": {
+            "lat": "41.5250",
+            "lng": "-88.0817"
+        },
+        "title": "Joliet, IL" ,
+        "iconImage": "https://img.icons8.com/flat-round/40/home--v1.png",
+        "content": "This is my hometown! I currently live here and have lived here for the last 20 years!"
+    },
+    {
+        "location": {
+            "lat": "40.4168",
+            "lng": "-3.7038"
+        },
+        "title": "Madrid, Spain" ,
+        "iconImage": "https://img.icons8.com/color/40/football2--v1.png",
+        "content": "Madrid Spain is where my favorite soccer team in the world lives. It is my dream Vacation to go here and watch them!"
+    },
+    {
+        "location": {
+            "lat": "53.4808",
+            "lng": "-2.2426"
+        },
+        "title": "Manchester, England" ,
+        "iconImage": "https://img.icons8.com/quill/40/football.png" ,
+        "content": "My second favorite soccer team in the world. They play in the best league so I would love to watch them play a game live as well!"
+    },
+    {
+        "location": {
+            "lat": "55.9533",
+            "lng": "-3.1883"
+        },
+        "title": "Edinburgh, Scotland" ,
+        "iconImage": "https://img.icons8.com/stickers/40/palace.png",
+        "content": "I would love to visit this magical looking city! The architecture is a true thing of beauty!"
+    },
+    {
+        "location": {
+            "lat": "35.6762",
+            "lng": "-139.6503"
+        },
+        "title": "Tokyo, Japan" ,
+        "iconImage": "https://img.icons8.com/color/40/japan-circular.png",
+        "content": "One of my dream vacations! I am a big anime fan and would love to visit japan and experience the culture!"
+    },
+    {
+        "location": {
+            "lat": "20.6595",
+            "lng": "-103.3494"
+        },
+        "title": "Jalisco, Mexico" ,
+        "iconImage": "https://img.icons8.com/external-justicon-lineal-color-justicon/40/external-mexico-countrys-flags-justicon-lineal-color-justicon.png",
+        "content": "Where I was born! Lived here for two years and then moved to the United States. Where my family is from!"
+    },
+    {
+        "location": {
+            "lat": "39.7392",
+            "lng": "-104.9903"
+        },
+        "title": "Denver, Colorado" ,
+        "iconImage": "https://img.icons8.com/ios-filled/40/ski-resort.png",
+        "content": "My first ever vacation! Beatiful state with beautiful mountians!"
+    },
+    {
+        "location": {
+            "lat": "-8.3405",
+            "lng": "115.0920"
+        },
+        "title": "Bali, Indonesia" ,
+        "iconImage": "https://img.icons8.com/ios/40/island-on-water.png",
+        "content": "Who doesnt want to visit Bali right? "
+    },
+    {
+        "location": {
+            "lat": "63.8434",
+            "lng": "-22.4360"
+        },
+        "title": "Grindavik, Iceland" ,
+        "iconImage": "https://img.icons8.com/ios-filled/40/lake.png",
+        "content": "It has always been one of my life goals to visit the blue laggons in Iceland!"
+    },
+    {
+        "location": {
+            "lat": "41.5250",
+            "lng": "-88.0817"
+        },
+        "title": "Joliet, IL" ,
+        "iconImage": "https://img.icons8.com/flat-round/40/home--v1.png",
+        "content": "This is my hometown! I currently live here and have lived here for the last 20 years!"
+    }
+]
