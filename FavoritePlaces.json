@@ -37,7 +37,7 @@
     },
     {
         "location": {
-            "lat": -35.6762,
+            "lat": 35.6762,
             "lng": 139.6503
         },
         "title": "Tokyo, Japan" ,
@@ -83,7 +83,7 @@
     {
         "location": {
             "lat": 36.3932,
-            "lng": -25.4615
+            "lng": 25.4615
         },
         "title": "Santorini, Greece" ,
         "iconImage": "https://img.icons8.com/cotton/64/parthenon--v1.png",
