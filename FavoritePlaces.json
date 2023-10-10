@@ -6,7 +6,7 @@
         },
         "title": "Joliet, IL" ,
         "iconImage": "https://img.icons8.com/flat-round/40/home--v1.png",
-        "content": "This is my hometown! I currently live here and have lived here for the last 20 years!"
+        "content": "<div><h1>Joliet, IL</h1><br><p>This is my hometown! I currently live here and <br> have for the last 20 years!</p></div>"
     },
     {
         "location": {
