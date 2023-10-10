@@ -1,8 +1,8 @@
 [
     {
         "location": {
-            "lat": "41.5250",
-            "lng": "-88.0817"
+            "lat": 41.5250,
+            "lng": -88.0817
         },
         "title": "Joliet, IL" ,
         "iconImage": "https://img.icons8.com/flat-round/40/home--v1.png",
@@ -10,8 +10,8 @@
     },
     {
         "location": {
-            "lat": "40.4168",
-            "lng": "-3.7038"
+            "lat": 40.4168,
+            "lng": -3.7038
         },
         "title": "Madrid, Spain" ,
         "iconImage": "https://img.icons8.com/color/40/football2--v1.png",
@@ -19,8 +19,8 @@
     },
     {
         "location": {
-            "lat": "53.4808",
-            "lng": "-2.2426"
+            "lat": 53.4808,
+            "lng": -2.2426
         },
         "title": "Manchester, England" ,
         "iconImage": "https://img.icons8.com/quill/40/football.png" ,
@@ -28,8 +28,8 @@
     },
     {
         "location": {
-            "lat": "55.9533",
-            "lng": "-3.1883"
+            "lat": 55.9533,
+            "lng": -3.1883
         },
         "title": "Edinburgh, Scotland" ,
         "iconImage": "https://img.icons8.com/stickers/40/palace.png",
@@ -37,8 +37,8 @@
     },
     {
         "location": {
-            "lat": "35.6762",
-            "lng": "-139.6503"
+            "lat": 35.6762,
+            "lng": -139.6503
         },
         "title": "Tokyo, Japan" ,
         "iconImage": "https://img.icons8.com/color/40/japan-circular.png",
@@ -46,8 +46,8 @@
     },
     {
         "location": {
-            "lat": "20.6595",
-            "lng": "-103.3494"
+            "lat": 20.6595,
+            "lng": -103.3494
         },
         "title": "Jalisco, Mexico" ,
         "iconImage": "https://img.icons8.com/external-justicon-lineal-color-justicon/40/external-mexico-countrys-flags-justicon-lineal-color-justicon.png",
@@ -55,8 +55,8 @@
     },
     {
         "location": {
-            "lat": "39.7392",
-            "lng": "-104.9903"
+            "lat": 39.7392,
+            "lng": -104.9903
         },
         "title": "Denver, Colorado" ,
         "iconImage": "https://img.icons8.com/ios-filled/40/ski-resort.png",
@@ -64,8 +64,8 @@
     },
     {
         "location": {
-            "lat": "-8.3405",
-            "lng": "115.0920"
+            "lat": -8.3405,
+            "lng": 115.0920
         },
         "title": "Bali, Indonesia" ,
         "iconImage": "https://img.icons8.com/ios/40/island-on-water.png",
@@ -73,8 +73,8 @@
     },
     {
         "location": {
-            "lat": "63.8434",
-            "lng": "-22.4360"
+            "lat": 63.8434,
+            "lng": -22.4360
         },
         "title": "Grindavik, Iceland" ,
         "iconImage": "https://img.icons8.com/ios-filled/40/lake.png",
@@ -82,8 +82,8 @@
     },
     {
         "location": {
-            "lat": "41.5250",
-            "lng": "-88.0817"
+            "lat": 41.5250,
+            "lng": -88.0817
         },
         "title": "Joliet, IL" ,
         "iconImage": "https://img.icons8.com/flat-round/40/home--v1.png",
