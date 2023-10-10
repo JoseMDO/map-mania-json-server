@@ -37,8 +37,8 @@
     },
     {
         "location": {
-            "lat": 35.6762,
-            "lng": -139.6503
+            "lat": -35.6762,
+            "lng": 139.6503
         },
         "title": "Tokyo, Japan" ,
         "iconImage": "https://img.icons8.com/color/40/japan-circular.png",
@@ -82,11 +82,11 @@
     },
     {
         "location": {
-            "lat": 41.5250,
-            "lng": -88.0817
+            "lat": 36.3932,
+            "lng": -25.4615
         },
-        "title": "Joliet, IL" ,
-        "iconImage": "https://img.icons8.com/flat-round/40/home--v1.png",
-        "content": "This is my hometown! I currently live here and have lived here for the last 20 years!"
+        "title": "Santorini, Greece" ,
+        "iconImage": "https://img.icons8.com/cotton/64/parthenon--v1.png",
+        "content": "Do I need to say anything else?"
     }
 ]
